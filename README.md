@@ -23,7 +23,7 @@ The project uses a publicly available crime dataset with the following attribute
 - **Other Features**: Additional information like arrest status or weapon usage.
 
 ### Data Source
-The dataset is sourced from the [Chicago Data Portal](https://data.cityofchicago.org/) or other reliable repositories.
+The dataset is sourced from the [Chicago Data Portal](https://data.cityofchicago.org/) .
 
 ## Objective
 - Identify temporal and spatial crime trends.
